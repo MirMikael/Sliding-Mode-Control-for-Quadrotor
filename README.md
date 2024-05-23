@@ -1,4 +1,8 @@
-Sliding Mode Control (**SMC**) is one of the most important **nonlinear controllers**.
+I see! Let's correct that. Here's the revised text without LaTeX formatting:
+
+---
+
+**Sliding Mode Control (SMC)** is one of the most important nonlinear controllers.
 
 ### Sliding Surface:
 
@@ -27,4 +31,4 @@ For the following state variables \( i \):
 
 ---
 
-Feel free to adjust the formatting or add more details if needed!
+Now it should display correctly on GitHub. Let me know if you need further adjustments!

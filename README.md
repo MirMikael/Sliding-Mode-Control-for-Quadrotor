@@ -2,11 +2,11 @@
 
 <p>For each state variable <em>i</em>, the sliding surface <em>S<sub>i</sub></em> is defined as:</p>
 
-<code>S<sub>i</sub> = e<sub>dot</sub> + &lambda;<sub>i</sub> &middot; e</code>
+<code>S<sub>i</sub> = ė + &lambda;<sub>i</sub> &middot; e</code>
 
 <p>Where:</p>
 <ul>
-  <li><code>e<sub>dot</sub></code> is the derivative of the error.</li>
+  <li><code>ė</code> is the derivative of the error.</li>
   <li><code>&lambda;<sub>i</sub></code> is the control gain for the <em>i</em>th state variable.</li>
   <li><code>e</code> represents the error between the desired and actual values of the state variable.</li>
 </ul>

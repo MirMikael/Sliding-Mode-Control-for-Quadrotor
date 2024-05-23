@@ -1,8 +1,8 @@
 Certainly! Here are the sliding surfaces expressed in mathematical notation:
 
 1. **\( S_{i} \)**:
-\[ S_{i}= \dot{e} + \lambda_{i} \cdot e \]
-\[ \dot{S}= k \tanh (S)\]
+\[ S_i= \dot{e} + \lambda_{i} \cdot e \]
+\dot{S}= k \cdot \tanh(S)
 2. **\( S_{\theta} \)**:
 \[ S_{\theta}[i+1] = \dot{x}_{1d} - x_4[i] + \lambda_1 \cdot (x_{1d} - x_3[i]) \]
 
